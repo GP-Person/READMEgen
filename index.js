@@ -91,8 +91,18 @@ ${licenseBadge}
 
 # ${answers.appName}
 
+
+
 ## Description
 Provide a brief description of your application.
+
+## Table of Contents
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Testing](#Testing)
+- [Questions](#Questions)
 
 ## Installation
 ${answers.appInstallationInstructions}

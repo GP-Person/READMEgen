@@ -22,7 +22,8 @@ Generates READMEs on the command line
 inquirer, npm, and fs
 
 ## Usage
-To generate README files
+To generate professional README files.
+Here is a video explaining the process: https://drive.google.com/file/d/1ze5a6-JscFc81R7vuOqlw0pGdQUiKZNG/view
 
 ## Credits
 GP
@@ -33,6 +34,7 @@ MIT
 ## Features
 Uses inquirer to ask for user input and saves a file with that data
 
+Here is a link to 
 
 
 ## Contact
