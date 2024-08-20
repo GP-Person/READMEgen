@@ -32,10 +32,7 @@ GP
 MIT
 
 ## Features
-Uses inquirer to ask for user input and saves a file with that data
-
-Here is a link to 
-
+Uses inquirer to ask for user input and saves a file with that data.
 
 ## Contact
 If there are any questions or concerns, I can be reached at:
